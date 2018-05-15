@@ -4,8 +4,8 @@ A better and updated version of Nguyen Tuan Anh Virtual Joystick for Phaser 2.10
 here [Original Post](https://medium.com/@netcell/a-virtual-joystick-for-phaser-f59a7a38a642)
 
  - Demo Gif
- 
-![](http://www.shiftsoftmx.com/imagenes/vj.gif)
+
+![](http://www.shiftsoftmx.com/imagenes/VirtualJoystick.gif)
 
 ## How to use
 
