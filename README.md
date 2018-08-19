@@ -35,6 +35,6 @@ and in the end use it like this
     }
 ```
 
-That's it, now you have a virtual joystick for your movile games!! :D.
+That's it, now you have a virtual joystick for your mobile games!! :D.
 
 This code is Totally Free.
